@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Parth Santosh Chittalwar — a Computer Engineering student passionate about programming, problem-solving, and core computer science fundamentals.<br>I have a strong foundation in C programming and am actively learning C++ and Data Structures & Algorithms (DSA) to improve my logical thinking and coding efficiency.<br>Currently, I’m focused on:<br>📌 Strengthening C/C++ concepts<br>📌 Practicing DSA for problem-solving.<br>Tools: Git, GitHub, VS Code
+Hi, I’m Parth Santosh Chittalwar — a Computer Engineering Student.<br>Currently, I’m focused on:<br>📌 Strengthening C/C++ concepts<br>📌 Practicing DSA for problem-solving.<br>Tools: Git, GitHub, VS Code
 
 
 ## 🌐 Socials:
