@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Parth Santosh Chittalwar — a Computer Engineering Student.<br>Currently, I’m focused on:<br>📌 Strengthening C/C++ concepts<br>📌 Practicing DSA for problem-solving.<br>Tools: Git, GitHub, VS Code
+# About Me:
+I’m Parth Santosh Chittalwar — a Computer Engineering Student.<br>Currently, I’m focused on:<br>📌 Strengthening C/C++ concepts<br>📌 Practicing DSA for problem-solving.<br>Tools: Git, GitHub, VS Code , Jetbrain.
 
 
 ## 🌐 Socials:
