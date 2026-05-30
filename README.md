@@ -12,7 +12,7 @@ C++ | DSA | Systems | Web | App | Game Development | AI | Cloud
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chittalwarparth@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-FF2D55?style=flat-square&logo=instagram&logoColor=white)]((https://www.instagram.com/parth_chittalwar/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2979FF?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/parthchittalwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2979FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthchittalwar/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itzz_me_parth)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]((https://www.youtube.com/@parth_chittalwar))
 
