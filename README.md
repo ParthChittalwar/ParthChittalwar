@@ -41,6 +41,7 @@ C++ | DSA | Systems | Web | App | Game Development | AI | Cloud
 ![Git](https://img.shields.io/badge/Git-F4511E?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+---
 
 
 ## 📄 Resume and PortFolio
