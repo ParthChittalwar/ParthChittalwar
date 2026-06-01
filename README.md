@@ -43,11 +43,9 @@ C++ | DSA | Systems | Web | App | Game Development | AI | Cloud
 
 ---
 
+## 📄 Resume and Portfolio
 
-## 📄 Resume and PortFolio
+[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](./Parth_S_Chittalwar_Resume.pdf)
 
-[View Resume](./Parth_S_Chittalwar_Resume.pdf)
-
-[View portFolio](https://parth-portfolio.chittalwarsantosh.workers.dev/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parth-portfolio.chittalwarsantosh.workers.dev/)
 
