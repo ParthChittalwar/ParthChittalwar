@@ -5,7 +5,7 @@ Computer Technology (2024–2028)
 
 Software Developer
 
-C++ | DSA | Systems | Web | App | Game Development | AI | Cloud
+C++ | DSA | Systems | Web | App | Game Development 
 
 ---
 
