@@ -3,9 +3,9 @@
 Priyadarshini College of Engineering, Nagpur  
 Computer Technology (2024–2028)  
 
-Software Developer
+Software Engineer | C++ & Systems Developer
 
-C++ | DSA | Systems | Web | App | Game Development 
+C++ | DSA | Operating Systems | Web Development
 
 ---
 
