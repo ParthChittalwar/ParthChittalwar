@@ -39,14 +39,24 @@ C++ | DSA | Systems | Web | App | Game Development
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ParthChittalwar&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthChittalwar&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ParthChittalwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthChittalwar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthChittalwar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthChittalwar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ParthChittalwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthChittalwar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthChittalwar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
