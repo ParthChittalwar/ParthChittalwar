@@ -36,17 +36,17 @@ C++ | DSA | Systems | Web | App | Game Development
 
 ---
 
-# 🛣️ Learning Roadmap
+# 📊 GitHub Analytics
 
-![C++](https://img.shields.io/badge/C++-In%20Progress-00599C?style=flat-square&logo=cplusplus)
-![DSA](https://img.shields.io/badge/DSA-Active-00C853?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-Learning-7B1FA2?style=flat-square)
-![React](https://img.shields.io/badge/React-Building-61DAFB?style=flat-square&logo=react&logoColor=000)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ParthChittalwar&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthChittalwar&theme=tokyonight&hide_border=true" />
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-Planned-232F3E?style=flat-square&logo=amazonaws)
-![System%20Design](https://img.shields.io/badge/System%20Design-Exploring-3949AB?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=000)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthChittalwar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
