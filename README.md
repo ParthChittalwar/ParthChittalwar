@@ -26,7 +26,7 @@ C++ | DSA | Operating Systems | Web Development
 
 
 
-### Core CS Focus
+### Core Computer Science
 
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00C853?style=flat-square)
 ![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-7B1FA2?style=flat-square)
