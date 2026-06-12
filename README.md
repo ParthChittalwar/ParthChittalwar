@@ -21,7 +21,7 @@ C++ | DSA | Systems | Web | App | Game Development
 # 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github,linux,docker,postman,blender&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github,linux&perline=9" />
 </p>
 
 
