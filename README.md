@@ -35,6 +35,21 @@ C++ | DSA | Systems | Web | App | Game Development
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1565C0?style=flat-square)
 
 ---
+
+# 🛣️ Learning Roadmap
+
+![C++](https://img.shields.io/badge/C++-In%20Progress-00599C?style=flat-square&logo=cplusplus)
+![DSA](https://img.shields.io/badge/DSA-Active-00C853?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-Learning-7B1FA2?style=flat-square)
+![React](https://img.shields.io/badge/React-Building-61DAFB?style=flat-square&logo=react&logoColor=000)
+
+![AWS](https://img.shields.io/badge/AWS-Planned-232F3E?style=flat-square&logo=amazonaws)
+![System%20Design](https://img.shields.io/badge/System%20Design-Exploring-3949AB?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker)
+
+---
+
 ## 📄 Resume and Portfolio
 
 [![Resume](https://img.shields.io/badge/Resume-E53935?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Parth_S_Chittalwar_Resume.pdf) [![Portfolio](https://img.shields.io/badge/Portfolio-212121?style=flat-square&logo=googlechrome&logoColor=white)](https://parth-portfolio.chittalwarsantosh.workers.dev/)
