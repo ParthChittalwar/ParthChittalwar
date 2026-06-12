@@ -24,11 +24,15 @@ C++ | DSA | Systems | Web | App | Game Development
 <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github,linux,docker,postman,blender&perline=9" />
 </p>
 
+
+
 ### Core CS Focus
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00C853?style=flat-square)
-![Problem%20Solving](https://img.shields.io/badge/Problem%20Solving-3949AB?style=flat-square)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-7B1FA2?style=flat-square)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00C853?style=flat-square)
+![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-7B1FA2?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-3949AB?style=flat-square)
+![Database Management Systems](https://img.shields.io/badge/DBMS-00897B?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-1565C0?style=flat-square)
 
 ---
 ## 📄 Resume and Portfolio
