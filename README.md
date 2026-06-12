@@ -59,6 +59,36 @@ C++ | DSA | Systems | Web | App | Game Development
 
 ---
 
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced C++
+  - Data Structures & Algorithms
+  - Object Oriented Programming
+  - Operating Systems
+  - Computer Networks
+
+Building:
+  - Personal Portfolio
+  - React Applications
+  - DSA Practice Repository
+
+Exploring:
+  - System Design Fundamentals
+  - Linux
+  - Docker
+
+Open_To:
+  - Software Engineering Internships
+  - Open Source Contributions
+  - Developer Collaborations
+```
+
+---
+
 ## 📄 Resume and Portfolio
 
 [![Resume](https://img.shields.io/badge/Resume-E53935?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Parth_S_Chittalwar_Resume.pdf) [![Portfolio](https://img.shields.io/badge/Portfolio-212121?style=flat-square&logo=googlechrome&logoColor=white)](https://parth-portfolio.chittalwarsantosh.workers.dev/)
