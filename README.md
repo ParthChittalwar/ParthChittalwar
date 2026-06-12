@@ -5,7 +5,7 @@ Computer Technology (2024–2028)
 
 Software Engineer | C++ & Systems Developer
 
-C++ | DSA | Operating Systems | Web Development
+Building strong foundations in Data Structures, Systems, and Modern Web Development.
 
 ---
 
