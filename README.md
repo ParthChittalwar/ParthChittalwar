@@ -38,9 +38,9 @@ C++ | DSA | Operating Systems | Web Development
 
 ## 📄 Resume & Portfolio
 
-[![Resume](https://img.shields.io/badge/View_Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Parth_S_Chittalwar_Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄%20Resume-1E40AF?style=for-the-badge)](./Parth_S_Chittalwar_Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-4338CA?style=for-the-badge)](https://parth-portfolio.chittalwarsantosh.workers.dev/)
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parth-portfolio.chittalwarsantosh.workers.dev/)
 ---
 # 📊 GitHub Analytics
 
