@@ -45,7 +45,7 @@ Building strong foundations in Data Structures, Systems, and Modern Web Developm
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ParthChittalwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="<img height="170" src="https://github-readme-stats.vercel.app/api?username=ParthChittalwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthChittalwar&theme=tokyonight&hide_border=true" />
 </p>
 
