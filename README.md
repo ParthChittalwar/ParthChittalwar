@@ -7,10 +7,6 @@ Software Engineer | C++ & Systems Developer
 
 Building strong foundations in Data Structures, Systems, and Modern Web Development.
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=900&lines=Computer+Technology+Student;C%2B%2B+%7C+DSA+%7C+Systems;React+Developer;Building+Projects+and+Strong+Fundamentals;Open+to+Internships+and+Collaborations"/>
-</p>
-
 ---
 
 ## 🌐 Socials:
