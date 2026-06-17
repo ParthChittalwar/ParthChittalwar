@@ -3,7 +3,7 @@
 Priyadarshini College of Engineering, Nagpur  
 Computer Technology (2024–2028)  
 
-Computer Engineering Undergraduate | C++ & Systems Developer
+CS Undergraduate | C++ & Systems Developer
 
 Building strong foundations in Data Structures, Systems, and Modern Web Development.
 
