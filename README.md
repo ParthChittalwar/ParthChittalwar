@@ -39,7 +39,7 @@ Building strong foundations in Data Structures, Systems, and Modern Web Developm
 ## 📄 Resume & Portfolio
 
 [![Resume](https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Parth_S_Chittalwar_Resume.pdf)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parth-portfolio.chittalwarsantosh.workers.dev/)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-5yf.pages.dev/)
 
 ---
 # 📊 GitHub Analytics
