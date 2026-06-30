@@ -10,25 +10,26 @@ Building strong foundations in Data Structures, Systems, and Modern Web Developm
 ---
 
 ## 🌐 Socials:
+
 <div align="center">
 
 <a href="mailto:chittalwarparth@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/parthchittalwar">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/ParthChittalwar">
-  <img src="https://skillicons.dev/icons?i=github" height="48" />
-</a>
-<a href="https://x.com/itzz_me_parth">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=x" height="48" />
-</a>
-<a href="https://www.youtube.com/@parth_chittalwar">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height="48" />
+  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/parth_chittalwar/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height="48" />
+  <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://x.com/itzz_me_parth">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@parth_chittalwar">
+  <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 </div>
