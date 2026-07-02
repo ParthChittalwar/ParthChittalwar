@@ -50,9 +50,8 @@ Building strong foundations in Data Structures, Systems, and Modern Web Developm
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthChittalwar&layout=compact&theme=tokyonight&hide_border=true&v=2" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ParthChittalwar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 
