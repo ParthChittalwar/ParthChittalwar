@@ -46,7 +46,7 @@ Building strong foundations in Data Structures, Systems, and Modern Web Developm
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthChittalwar&theme=tokyonight" />
- <img src="https://github-readme-stats-sigma-vert-31.vercel.app/api?username=ParthChittalwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+ <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ParthChittalwar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
