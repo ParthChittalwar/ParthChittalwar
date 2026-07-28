@@ -49,7 +49,7 @@ Building strong foundations in Data Structures, Systems, and Modern Web Developm
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthChittalwar&theme=tokyo-night&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-vert-31.vercel.app/api/top-langs/?username=ParthChittalwar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
 
