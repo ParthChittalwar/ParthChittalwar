@@ -21,7 +21,7 @@ Building strong foundations in Data Structures, Systems, and Modern Web Developm
 # 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,tailwind,react,vite,nodejs,express,mongodb,postman,npm,git,github,linux,vscode,vercel,cloudflare&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,tailwind,react,vite,nodejs,express,mongodb,moongoose,postman,npm,git,github,linux,vscode,vercel,cloudflare&perline=8" />
 </p>
 
 
